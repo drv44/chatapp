@@ -1,5 +1,5 @@
 {
-  "name": "talk-a-tive",
+  "name": "convohub",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -7,7 +7,7 @@
      "server":"nodemon backend/server.js",
     "build" : "npm install --legacy-peer-deps && npm install --legacy-peer-deps --prefix frontend && npm run build --prefix frontend"
   },
-  "author": "kanishka sharma",
+  "author": "dhruv sarkar",
   "license": "ISC",
   "description": "",
   "dependencies": {
